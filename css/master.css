@@ -1,0 +1,109 @@
+@font-face {
+  font-family: myfont1;
+  src: url("../fonts/1/orange juice 2.0.ttf") format("truetype");
+}
+@font-face {
+    font-family: myfont2;
+    src: url("../fonts/2/DK Garden Gnome.otf") format("truetype");
+}
+@font-face {
+    font-family: myfont3;
+    src: url("../fonts/3/angrybirds-regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: myfont4;
+    src: url("../fonts/4/JAi_____.TTF") format("truetype");
+}
+@font-face {
+  font-family: 'ch';
+  src: url("./fonts/ch.woff") format('truetype');
+}
+
+
+.section{
+  text-align: center;
+}
+.item1 h2{
+
+  font-family:'minijianxiaolis4167ed02163ed';
+  font-size: 40px;
+  line-height: 50px;
+
+}
+.item1 p{
+  font-family: myfont2;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin-top: 300px;
+  font-size: 30px;
+  opacity: 0;
+}
+
+.item2 h2{
+  font-size: 50px;
+  font-family:'minijianxiaolis41680a23d63ed';
+
+}
+.item2 p{
+  font-size: 60px;
+  /*color: #000;*/
+  font-family: myfont3;
+}
+
+
+.item3 h2{
+  font-family: myfont1;
+  margin-left: -2000px;
+  opacity: 0;
+  font-size: 60px;
+}
+.item3 h2 a{
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  border-bottom: 1px solid #FFB6C1;
+}
+.item3 h2 a:hover{
+  color: #FFB6C1;
+
+}
+.item3 p{
+  font-family: myfont4;
+  margin-left: 1500px;
+  opacity: 0;
+  font-size: 30px;
+}
+
+.item4 h2{
+  font-family: myfont1;
+   margin-top: -80px;
+   opacity: 0;
+   font-size: 60px;
+}
+.item4 h2 a{
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  border-bottom: 1px solid #20B2AA;
+}
+.item4 h2 a:hover{
+  color: #20B2AA;
+}
+.item4 p{
+  font-family: myfont4;
+   margin-top: 2000px;
+   opacity: 0;
+   font-size: 30px;
+}
+
+.item5 h2{
+  font-family: myfont1;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+.item5 p{
+  font-family: myfont4;
+  margin-left: 1500px;
+  opacity: 0;
+  font-size: 20px;
+}
